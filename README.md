@@ -1,1 +1,3 @@
 # MQTT-Based-IoT-Vehicle-to-Traffic-Light-Communication-System
+Developed an IoT-based system enabling real-time communication between vehicles and traffic lights using MQTT over Wi-Fi. The solution features a Raspberry Pi-based HMI that displays traffic light status (red, orange, green) to drivers in real time, enhancing road safety, reducing unnecessary fuel consumption, and optimizing traffic flow through efficient Vehicle-to-Infrastructure (V2I) communication. This project demonstrates the integration of embedded systems, IoT protocols, and smart transportation technologies to support intelligent mobility.
+
